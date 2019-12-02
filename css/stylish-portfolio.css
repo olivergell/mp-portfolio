@@ -218,7 +218,7 @@ h6 {
 
 .callout {
   padding: 15rem 0;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-callout.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/neon-sign.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -327,13 +327,13 @@ a:hover, a:focus, a:active {
 }
 
 .btn-primary {
-  background-color: #D8B136 !important;
+  background-color: #DE1C1C !important;
   border-color: #000 !important;
   color: #fff !important;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #b2932f !important;
+  background-color: #b72020 !important;
   border-color: #000 !important;
 }
 
