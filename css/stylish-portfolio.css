@@ -32,6 +32,10 @@ body {
   text-transform: uppercase;
 }
 
+.h2-white {
+  color: #ffffff;
+}
+
 h1,
 h2,
 h3,
@@ -128,7 +132,7 @@ h6 {
   height: 100%;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
-  background: #1D809F;
+  background: #DE1C1C;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -291,7 +295,7 @@ h6 {
     clip-path: inset(2rem);
   }
   .portfolio-item:hover .caption {
-    background-color: rgba(29, 128, 159, 0.9);
+    background-color: rgba(222, 28, 28, 0.9);
     -webkit-clip-path: inset(2rem);
     clip-path: inset(2rem);
   }
@@ -308,13 +312,13 @@ footer.footer .social-link {
   width: 4rem;
   line-height: 4.3rem;
   font-size: 1.5rem;
-  background-color: #1D809F;
+  background-color: #DE1C1C;
   transition: background-color 0.15s ease-in-out;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
 
 footer.footer .social-link:hover {
-  background-color: #155d74;
+  background-color: #b72020;
   text-decoration: none;
 }
 
